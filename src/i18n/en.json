@@ -1,0 +1,10 @@
+{
+  "addTask": "Add Task",
+  "uncompleted": "Uncompleted",
+  "completed": "Completed",
+  "deleted": "Deleted",
+  "save": "Save",
+  "cancel": "Cancel",
+  "editTask": "Edit Task",
+  "noTasks": "No tasks found"
+}
